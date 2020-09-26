@@ -1,2 +1,2 @@
-# luh.github.io
-[Personal site](https://luh.github.io).
+# [luh.github.io](https://lu-huang.github.io/)
+
